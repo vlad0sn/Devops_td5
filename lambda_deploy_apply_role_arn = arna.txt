@@ -1,0 +1,3 @@
+lambda_deploy_apply_role_arn = "arn:aws:iam::054037125242:role/lambda-sample-apply"
+lambda_deploy_plan_role_arn = "arn:aws:iam::054037125242:role/lambda-sample-plan"
+lambda_test_role_arn = "arn:aws:iam::054037125242:role/lambda-sample-tests"
